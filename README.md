@@ -56,7 +56,7 @@ A Minecraft Staff addon developed with the PaperMC API. It has unique features n
 
 ## 📱 Contact
 [![Mail](https://img.shields.io/badge/mail-ssttevennn%40gmail.com-dd4336?style=for-the-badge&logo=gmail)](mailto:ssttevennn@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/theyyyyy)
+[![Discord](https://img.shields.io/badge/theyyyyy.-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245015803321909373)
 
 ## 📊 Stats
 
