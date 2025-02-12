@@ -51,4 +51,4 @@ A JavaScript framework designed to simplify the development of modern web applic
 
 ## 📊 Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theyyyyy&show_icons=true&count_private=true&hide=prs&theme=holi)
+![Theyyyyy's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=@ImTheyyyyy&theme=algolia&layout=compact&custom_title=🌌%20This%20year)
