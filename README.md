@@ -28,32 +28,22 @@ I'm a 🇨🇴 **Colombian** developer passionate about technology, programming,
 
 ## ✨ Featured Projects
 
-### 👮 [Snowy Staff](https://builtbybit.com/resources/snowystaff-staffmode-staffutils.54834/)
-A Minecraft Staff addon developed with the PaperMC API. It has unique features never seen before with incredible optimization.
+### ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) [NyoJS](https://www.npmjs.com/package/nyo-js)
+A JavaScript framework designed to simplify the development of modern web applications. It offers a flexible architecture and a rich collection of tools. With innovative features and exceptional performance, this framework is ideal for both small projects and large-scale enterprise applications.
 
-**Features**: 
-  - Freeze Timer
-  - Backup System
-  - Notes System
-  - Discord Webhooks
-  - Staff Mode
-  - Vanish Mode
-  - MySQL Support
-
-**Tech Stack**:
-  - [**PaperMC API**](https://docs.papermc.io/paper/dev/api) - Used to develop the plugin using the PaperMC API for enhanced performance.
-  - [**PlaceholderAPI**](https://wiki.placeholderapi.com/) - Used for easy integration of placeholders within the plugin.
-  - [**LicenseGate**](https://docs.licensegate.io/) - Used for handling plugin licensing and protection.
-  - [**JSON Library**](https://mvnrepository.com/artifact/org.json/json/20090211) - Used for parsing and manipulating JSON data in the plugin.
-
-## 🏆 Achievements
-
-- **Java Developer Certification** - Intermediate level certification in Java development.
-- **JavaScript Certificate** - Certificate in basic and intermediate JavaScript.
-- **Adobe Illustrator Course** - Completed course in Illustrator (Basic and Advanced design).
-- **Adobe Photoshop Course** - Course in Photoshop for graphic design and image editing.
-- **Git Basics** - Certificate in basic Git and version control.
-- **MySQL Fundamentals** - Certificate in MySQL database fundamentals.
+**Features**:
+  - **Middleware Support**: Easily add and manage middleware functions to handle requests and responses.
+  - **Advanced Routing**: Define routes for various HTTP methods (GET, POST, PUT, DELETE) with flexible path matching.
+  - **Error Handling**: Centralized error handling middleware to catch and respond to errors uniformly.
+  - **JSON Parsing**: Middleware to automatically parse JSON request bodies.
+  - **Data Validation**: Validate incoming request data against schemas using Joi.
+  - **Cookie Management**: Middleware to get and set cookies in requests and responses.
+  - **Session Management**: Simple session management using cookies.
+  - **Static File Serving**: Serve static files from a specified directory.
+  - **Request Logging**: Middleware to log request details, including headers and body.
+  - **Composable Middleware**: Compose multiple middleware functions to create a request handling pipeline.
+  - **Context Management**: Unified context object to access request and response properties.
+  - **Lightweight and Fast**: Designed for high performance with minimal overhead.
 
 ## 📱 Contact
 [![Mail](https://img.shields.io/badge/mail-ssttevennn%40gmail.com-dd4336?style=for-the-badge&logo=gmail)](mailto:ssttevennn@gmail.com)
