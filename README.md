@@ -42,10 +42,11 @@ A JavaScript framework designed to simplify the development of modern web applic
 [![Discord](https://img.shields.io/badge/gopitos-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245015803321909373)
 
 ## 📊 Stats
+My statistics on WakaTime and GitHub
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td style="border: none;"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api/wakatime?username=@765d6a57-db0f-4d36-abf5-9e49f3b464f6&theme=algolia&layout=compact&custom_title=🌌%20Last%20365%20days"></td>
-    <td style="border: none;" valign="top"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats&include_all_commits=true"></td>
+    <td style="border: none;"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api/wakatime?username=@765d6a57-db0f-4d36-abf5-9e49f3b464f6&theme=algolia&layout=compact&custom_title=☀️%20Last%20365%20days"></td>
+    <td style="border: none;" valign="top"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api?username=ImTheyyyyy&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🧮%20Total%20stats&include_all_commits=true"></td>
   </tr>
 </table>
