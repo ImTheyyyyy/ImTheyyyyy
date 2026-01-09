@@ -3,32 +3,24 @@
 I'm a 🇨🇴 **Colombian** developer passionate about technology, programming, and continuous learning.
 
 - 💬 My native language is **Spanish**, and I'm currently learning **English**.
-- 💻 I’m primarily a **JavaScript** developer using **Node.js**, with experience in **Java**.
-- 🛠️ I specialize in the **SpigotMC** and **PaperMC** APIs for Minecraft plugin development.
-- 🎨 I'm also a **graphic designer**, creating designs with a focus on aesthetics and user experience.
+- 💻 I work mainly with **JavaScript** and **TypeScript**, building scalable applications.
+- 🚀 I’m interested in **backend development** and always open to **new projects and opportunities**.
 
 ## 💻 Languages, Tools and Databases
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=for-the-badge)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![WebStorm Badge](https://img.shields.io/badge/WebStorm-000?logo=webstorm&logoColor=fff&style=for-the-badge)
-![Cinema 4D](https://img.shields.io/badge/Cinema%204D-011A6A?logo=cinema4d&logoColor=fff&style=for-the-badge)
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 
 ## ✨ Featured Projects
 
-### ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) [NyoJS](https://www.npmjs.com/package/nyo-js)
+### 🧨 [NyoJS](https://www.npmjs.com/package/nyo-js)
 A JavaScript framework designed to simplify the development of modern web applications. It offers a flexible architecture and a rich collection of tools. With innovative features and exceptional performance, this framework is ideal for both small projects and large-scale enterprise applications.
 
 **Features**:
@@ -47,8 +39,13 @@ A JavaScript framework designed to simplify the development of modern web applic
 
 ## 📱 Contact
 [![Mail](https://img.shields.io/badge/mail-ssttevennn%40gmail.com-dd4336?style=for-the-badge&logo=gmail)](mailto:ssttevennn@gmail.com)
-[![Discord](https://img.shields.io/badge/theyyyyy.-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245015803321909373)
+[![Discord](https://img.shields.io/badge/gopitos-%235662f6.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/1245015803321909373)
 
 ## 📊 Stats
 
-![Theyyyyy's languages this week](https://github-readme-stats.vercel.app/api/wakatime?username=@ImTheyyyyy&theme=algolia&layout=compact&custom_title=🌌%20My%20Stats)
+<table cellspacing="0" cellpadding="0">
+  <tr>
+    <td style="border: none;"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api/wakatime?username=@765d6a57-db0f-4d36-abf5-9e49f3b464f6&theme=algolia&layout=compact&custom_title=🌌%20Last%20365%20days"></td>
+    <td style="border: none;" valign="top"><img src="https://github-readme-stats-fawn-tau-63.vercel.app/api?username=Amgelo563&show_icons=true&theme=algolia&include_all_commits=true&custom_title=🌐%20Total%20stats&include_all_commits=true"></td>
+  </tr>
+</table>
