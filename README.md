@@ -3,7 +3,7 @@
 I'm a 🇨🇴 **Colombian** developer passionate about technology, programming, and continuous learning.
 
 - 💬 My native language is **Spanish**, and I'm currently learning **English**.
-- 💻 I work mainly with **JavaScript** and **TypeScript**, building scalable applications.
+- 💻 I work mainly with **Python**, **JavaScript** and **TypeScript**, building scalable applications.
 - 🚀 I’m interested in **backend development** and always open to **new projects and opportunities**.
 
 ## 💻 Languages, Tools and Databases
